@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ServiceBusSendAndReceiveIsolated": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7257",
+      "launchBrowser": false
+    }
+  }
+}

@@ -1,0 +1,6 @@
+consumer-*.bicepparam
+pf/
+.venv/
+.DS_Store
+
+local.settings.json
